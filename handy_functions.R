@@ -100,4 +100,6 @@ circle.corr <- function(corr, col=c("black","white"), bg = "white",
 
 print("this is a test again")
 print("this is also a test")
+print("this is another test")
+
 
