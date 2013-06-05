@@ -98,6 +98,3 @@ circle.corr <- function(corr, col=c("black","white"), bg = "white",
   points(rep(1:m, each = n)[zz==1], rep(n:1, m)[zz==1], pch=16, col="yellow")
 }
 
-print("this is a test again")
-print("this is also a test")
-
