@@ -1,0 +1,12 @@
+LCCVP
+|
++-- repository 1
+|   |
+|   +-- file 1
+|   +-- file 2
+|   \-- file 3
+|
++-- repository 2
+|   |
++   \-- file 1
+...
